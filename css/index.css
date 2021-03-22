@@ -1296,8 +1296,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 14px;
   --global-bg: #e1ebe8;
   --font-color: #4c4948;
-  --hr-border: #e580ff;
-  --hr-before-color: #db4dff;
+  --hr-border: #80c0ff;
+  --hr-before-color: #4da6ff;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -2871,8 +2871,8 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  border-left-color: #7e7e7e;
-  background: #9d9d9d;
+  border-left-color: #06c;
+  background: #0080ff;
   color: #fff;
 }
 #aside-content #card-toc .toc-content:before {
