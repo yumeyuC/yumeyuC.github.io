@@ -4,6 +4,64 @@
   
     
     <entry>
+      <title>關於去背</title>
+      <link href="undefined/20210409color/"/>
+      <url>undefined/20210409color/</url>
+      
+        <content type="html"><![CDATA[<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 04 月 09 日，只是學生的疑惑紀錄。<br>前面引言為小故事，可用右側目錄跳轉。</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>同學有疑惑：「求助一下，那個dlc裡使用的線稿是怎麼弄的呀？」（就是問去背）</p><p>這時候會想說，恩…看來要寫一篇回答給自己做紀錄了。<br>滿多方式的，所以先講一些</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 色彩 </category>
+          
+          <category> PS相關 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 色彩 </tag>
+            
+            <tag> 去背 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PS壓感問題</title>
+      <link href="undefined/PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/"/>
+      <url>undefined/PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/</url>
+      
+        <content type="html"><![CDATA[<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 04 月 03 日，只是提供解決方式，不保證能完全解決喔!<br>前面引言為小故事，可用右側目錄跳轉。</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>同學：「明明CLIP、SAI都有壓感，為什麼只有ＰＳ無法使用！？］<br>我：「去GOOGLE或百度（ｘ」<br>好，不開玩笑，其實沒想到同學們還滿多會有這個問題，所以就開一篇，以下是曾經用過能解決的方式。</p><h2 id="方式一"><a href="#方式一" class="headerlink" title="方式一  "></a>方式一  <span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: #f7fffd;color: #ebfffd">(´･ω･`)  </button><span class="hide-content">可能只是廢話</span></span></h2><ul><li>重插繪圖板</li><li>重開電腦  </li><li>內存問題</li></ul><h2 id="方式二"><a href="#方式二" class="headerlink" title="方式二"></a>方式二</h2><ul><li>重灌驅動軟體  </li><li>如果是WACOM，<strong>「勾選」</strong>Windows Ink：　不過我是關閉，然後使用方式三，因為可能影響到其他設定。<br><img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom01.jpg?raw=true"></li></ul><hr><h2 id="方式三-最常能解決"><a href="#方式三-最常能解決" class="headerlink" title="方式三(最常能解決)"></a>方式三(最常能解決)</h2><h3 id="1-新增全新記事本-txt檔"><a href="#1-新增全新記事本-txt檔" class="headerlink" title="(1)新增全新記事本.txt檔"></a>(1)新增全新記事本.txt檔</h3><p>　　　　取名：<strong>「PSUserConfig」</strong>，不要打成PSUserConfig.txt，<span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: #f7fffd;color: #ebfffd">(´･ω･`)不要點我  </button><span class="hide-content">之前複製.txt 所以沒壓感(´･ω･`)</span></span></p><h3 id="2-記事本內打入"><a href="#2-記事本內打入" class="headerlink" title="(2)記事本內打入"></a>(2)記事本內打入</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># Use WinTab</span><br><span class="line">UseSystemStylus 0</span><br></pre></td></tr></table></figure><p>　　　<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom02.jpg?raw=true"></p><h3 id="3-將筆記本貼到Adobe-Photoshop-20xx-Settings"><a href="#3-將筆記本貼到Adobe-Photoshop-20xx-Settings" class="headerlink" title="(3)將筆記本貼到Adobe Photoshop 20xx Settings"></a>(3)將筆記本貼到Adobe Photoshop 20xx Settings</h3><pre><code> 放入: C:\Users\User\AppData\Roaming\Adobe\Adobe Photoshop 2020\Adobe Photoshop 2020 Settings    </code></pre><ol><li>C:\Users\User 裡面的user找自己使用者的名字</li><li>AppData是隱藏的資料夾，請資料夾上方　<strong>檢視&gt;選項&gt;檢視&gt;選擇:顯示隱藏的檔案、資料夾及磁碟機</strong></li><li>Adobe Photoshop 20xx Settings 看自己是甚麼版本，之前有同學問為甚麼沒有，解決很久才發現他是photoshop cs3…版本差距有點太不同，請自行搜尋解決方式喔！</li></ol><p> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom03.jpg?raw=true"></p><hr><h2 id="後話"><a href="#後話" class="headerlink" title="後話"></a>後話</h2><ul><li>目前曾使用過cs6版本是直接就有壓感</li><li>如果用到20XX版本，通常方式三最能解決</li><li>方法3在2021版本都還能使用，如果還有其他作法這邊會再補上</li><li>原本想說這個問題可以google或是百度隨便找一下就好，應該超多有人寫，<br>但想說這個網站就是我曾遇到同學甚麼問題，都整理起來，來當作自己筆記。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他/綜合 </category>
+          
+          <category> PS相關 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PS </tag>
+            
+            <tag> 壓感 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>創站心得</title>
       <link href="undefined/testword/"/>
       <url>undefined/testword/</url>
