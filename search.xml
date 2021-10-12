@@ -4,18 +4,18 @@
   
     
     <entry>
-      <title>心得大飛課程-W00課前作業</title>
-      <link href="undefined/%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/"/>
-      <url>undefined/%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/</url>
+      <title>心得大飛課程-W00課前作業-點評</title>
+      <link href="undefined/2021-10-11-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD%20-%E4%BD%9C%E6%A5%AD%E9%BB%9E%E8%A9%95/"/>
+      <url>undefined/2021-10-11-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD%20-%E4%BD%9C%E6%A5%AD%E9%BB%9E%E8%A9%95/</url>
       
-        <content type="html"><![CDATA[<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 08 月 17 日，只是以日記型式簡單闡述心得!</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>去年上過大飛老師設計課，今年報素描課，正好也架了網站就筆記一下，如果有人有興趣也可以看一下。</p><h2 id="申請"><a href="#申請" class="headerlink" title="申請"></a>申請</h2><p>因為上次有上過，所以一些文件都已經準備好，仔細觀看不要繳錯帳號就好，<br>忙著專心上班，其實也不太在意什麼時候收到，應該沒有等太久可能1~3天就收到回信了。</p><h2 id="課前作業-摸底"><a href="#課前作業-摸底" class="headerlink" title="課前作業-摸底"></a>課前作業-摸底</h2><p>信件中有這個要求<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a001.PNG?raw=true"></p><p>信件中我判斷就是先按照自己方式繪製，</p><h2 id="我目前臨摹方式"><a href="#我目前臨摹方式" class="headerlink" title="我目前臨摹方式"></a>我目前臨摹方式</h2><p>都身為人類是基本要求，其中看到<strong>不需要繪製背景，只要畫骷髏頭</strong>以及<strong>盡你所能、你目前理解的去畫</strong><br>目前工作也是差不多的網課教育體系，每天都最少看了100~300份作業，如果沒有按照規定走助教或老師會很痛苦，<br>身為助教，我最喜歡看到大部分按照規則走的同學，現在我是學生，當然一定照規定走。</p><p>關於臨摹階段，裡面有談到之前我待遊戲業做特效三年半的臨摹與經驗，有興趣可以看一下</p><p>先用１：１外框，當有這個外框，基本就很好定位外輪廓，一兩個點位。<br>以目前的臨摹準度，大概知道可能已經可以下個階段，不過會覺得想說只是摸底，這邊就按照目前既有經驗來繪製方式吧～</p><h3 id="定位"><a href="#定位" class="headerlink" title="定位"></a>定位</h3><p>通常我會卡出一兩個類似下圖的定位點，</p><h3 id="定位-1"><a href="#定位-1" class="headerlink" title="定位"></a>定位</h3><h3 id="定位-2"><a href="#定位-2" class="headerlink" title="定位"></a>定位</h3><h3 id="定位-3"><a href="#定位-3" class="headerlink" title="定位"></a>定位</h3><h3 id="定位-4"><a href="#定位-4" class="headerlink" title="定位"></a>定位</h3><hr><h2 id="方式三-最常能解決"><a href="#方式三-最常能解決" class="headerlink" title="方式三(最常能解決)"></a>方式三(最常能解決)</h2><h3 id="1-新增全新記事本-txt檔"><a href="#1-新增全新記事本-txt檔" class="headerlink" title="(1)新增全新記事本.txt檔"></a>(1)新增全新記事本.txt檔</h3><p>　　　　取名：<strong>「PSUserConfig」</strong>，不要打成PSUserConfig.txt，<span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: #f7fffd;color: #ebfffd">(´･ω･`)不要點我  </button><span class="hide-content">之前複製.txt 所以沒壓感(´･ω･`)</span></span></p><h3 id="2-記事本內打入"><a href="#2-記事本內打入" class="headerlink" title="(2)記事本內打入"></a>(2)記事本內打入</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># Use WinTab</span><br><span class="line">UseSystemStylus 0</span><br></pre></td></tr></table></figure><p>　　　<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom02.jpg?raw=true"></p><h3 id="3-將筆記本貼到Adobe-Photoshop-20xx-Settings"><a href="#3-將筆記本貼到Adobe-Photoshop-20xx-Settings" class="headerlink" title="(3)將筆記本貼到Adobe Photoshop 20xx Settings"></a>(3)將筆記本貼到Adobe Photoshop 20xx Settings</h3><pre><code> 放入: C:\Users\User\AppData\Roaming\Adobe\Adobe Photoshop 2020\Adobe Photoshop 2020 Settings    </code></pre><ol><li>C:\Users\User 裡面的user找自己使用者的名字</li><li>AppData是隱藏的資料夾，請資料夾上方　<strong>檢視&gt;選項&gt;檢視&gt;選擇:顯示隱藏的檔案、資料夾及磁碟機</strong></li><li>Adobe Photoshop 20xx Settings 看自己是甚麼版本，之前有同學問為甚麼沒有，解決很久才發現他是photoshop cs3…版本差距有點太不同，請自行搜尋解決方式喔！</li></ol><p> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom03.jpg?raw=true"></p><hr><h2 id="後話"><a href="#後話" class="headerlink" title="後話"></a>後話</h2><ul><li>目前曾使用過cs6版本是直接就有壓感</li><li>如果用到20XX版本，通常方式三最能解決</li><li>方法3在2021版本都還能使用，如果還有其他作法這邊會再補上</li><li>原本想說這個問題可以google或是百度隨便找一下就好，應該超多有人寫，<br>但想說這個網站就是我曾遇到同學甚麼問題，都整理起來，來當作自己筆記。</li></ul>]]></content>
+        <content type="html"><![CDATA[<body oncontextmenu="window.event.returnValue=false"><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 10 月 11 日，只是以日記型式簡單闡述心得!</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>這次有額外附贈角色設計跟blender入門課程。</p><p>大飛老師說自己早期嚴肅，他自稱改圖很不留情面，要收起玻璃心！<br>早期一定很嚴格，後來發現同學們的程度真的母湯，開始更柔軟些，所以現在跟我們教學在回應同學的時候一樣，沒有太嚴厲，很溫柔！我是這麼覺得就是了。</p><hr><h2 id="點評"><a href="#點評" class="headerlink" title="點評"></a>點評</h2><p>很認真講每一處的問題，而且都會稱讚，口吻就聽起來是個認真人～</p><h2 id="共性點評"><a href="#共性點評" class="headerlink" title="共性點評"></a>共性點評</h2><p>有些基礎就不多寫<br>型準要抓好，筆刷方頭，流量30，40。傳統2 3做調子。通常我習慣控制比較制式，100或是50，這樣比較好計算，這點我需要重新練習看看。<br>噴槍是渲染，適合過度、大調子，不過還是用筆刷來做比較好。</p><p>速寫看量，作業看質。</p><p>避免焦髒灰灼<br>焦：調子ok，但亮暗反差太大。<br>髒：看起來有雜點，亮暗沒有統一，深淺太猛烈，東一塊西一塊，明度差異在某一塊過大，但又不像是物件的反差表現(如金屬)。<br>灰：明暗反差太弱，沒有對比。<br>灼：(後續增添)</p><h2 id="高手點評"><a href="#高手點評" class="headerlink" title="高手點評"></a>高手點評</h2><p>不是我的圖所以不貼，只文字敘述<br>00:56<br>主觀審美：虛實、調子、收放、鬆緊關係。<br>要更強，邊緣增添筆觸，增添畫味，不要全部都這樣點會低級。<br>不是畫照片，要把空間對比做出來。</p><p>02:29<br>深色襯托石膏的亮，淺色襯托亮部，近深遠淺，</p><h2 id="我的點評"><a href="#我的點評" class="headerlink" title="我的點評"></a>我的點評</h2><p>依照上一篇，初次點評：</p><p>優：訊息處理不錯。（材質那個點）<br>缺：主要亮面太灰，光感不足，亮部要提高，空間感要增添，近深遠淺、投影也試著增添。</p><h2 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h2><p>課後判斷：某些邊緣有點虛，不夠實。過於抓型準會造成匠，缺乏畫味。<br>額外修正１：頭頂型準，門牙明度，減少直射光深色雜點。</p><p>其實不太知道這樣增添是不是符合老師的要求，不太確定近深遠淺具體應該如何操作，畢竟還沒上完課程，空間關係還不太確定是否ｏｋ，<br>因此先暫時修改成這樣子等後續修正：</p><hr><h2 id="修正後Discord回應"><a href="#修正後Discord回應" class="headerlink" title="##修正後Discord回應 "></a>##修正後Discord回應 </h2><h2 id="後話"><a href="#後話" class="headerlink" title="後話"></a>後話</h2><ul><li>2:09 提到，眼到手到只是「匠」，主觀判斷才重要，這點對於有一定經驗的人的確是這樣。</li></ul><ul><li>雖然上次有上過，但剛開始5分鐘我沒聽到聲音，所以進進出出兩三次，過去經驗唯一比較有壓力的就是怕老師會說「不要開視訊鏡頭！」</li></ul>]]></content>
       
       
       <categories>
           
-          <category> 其他/綜合 </category>
+          <category> 心得 </category>
           
-          <category> PS相關 </category>
+          <category> 網課心得-大飛(素描) </category>
           
       </categories>
       
@@ -24,7 +24,67 @@
             
             <tag> PS </tag>
             
-            <tag> 網課心得01 </tag>
+            <tag> 網課心得-大飛(素描) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>心得大飛課程-W00課前作業</title>
+      <link href="undefined/%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/"/>
+      <url>undefined/%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/</url>
+      
+        <content type="html"><![CDATA[<body oncontextmenu="window.event.returnValue=false"><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 08 月 17 日，只是以日記型式簡單闡述心得!</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>去年上過大飛老師設計課，今年報素描課，正好也架了網站就筆記一下。<br>照之前經驗，大飛老師課程說法比較適合有一點繪圖經驗的人，如果初學者也可以上，只是不懂真的要問，不要怕，老師沒辦法通靈，不知道同學不知道哪邊，多少要問一下。</p><p>現在不懂，可能一兩年再回頭報課程，這樣也許等級提升後回頭再看，自己會更有體悟。<br>所謂師父領進門，修行在個人，師傅不可能一輩子帶徒兒，也不可能上幾小時就能變大師，不要跟其他人比，請跟自己比就好，自己上完課、做筆記、然後<strong>有方法的練習</strong>。</p><h2 id="申請"><a href="#申請" class="headerlink" title="申請"></a>申請</h2><p>因為上次有上過同位老師課程，所以一些文件都已經準備好，仔細觀看不要繳錯帳號即可，忙著專心上班，其實也不太在意什麼時候收到，應該沒有等太久可能1~3天就收到回信了。</p><h2 id="課前作業-摸底"><a href="#課前作業-摸底" class="headerlink" title="課前作業-摸底"></a>課前作業-摸底</h2><p>信件中有這個要求<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a001.PNG?raw=true"></p><p>我判斷就是先按照自己方式繪製，那就開工吧。</p><hr><h2 id="我目前臨摹方式"><a href="#我目前臨摹方式" class="headerlink" title="我目前臨摹方式"></a>我目前臨摹方式</h2><p>都是身為人類…喔不，是身為想學畫圖的基本要求，其中看到<strong>不需要繪製背景，只要畫骷髏頭</strong>以及<strong>盡你所能、你目前理解的去畫</strong><br>目前工作也是差不多的網課教育體系，每天都最少看了100~300份作業，如果沒有按照規定走助教或老師會很痛苦。<br>身為助教，最喜歡看到大部分按照規則走的同學，像是天秤，一邊放重物就會破壞平衡與秩序（？），會需要花極大量的時間建立習慣來讓被破壞的平衡拉回來。現在我是學生，當然一定照規定走囉！</p><p>關於臨摹階段，裡面有談到之前我待遊戲業做特效三年半的臨摹與經驗，有興趣可以看一下。</p><p>先用<strong>１：１外框</strong>，當有這個外框，基本就很好定位一兩側外輪廓。<br>以目前的臨摹準度，大概知道已經可以下個階段，不過會覺得想說只是摸底，這邊就按照比較穩的方式來繪製～</p><h3 id="1-定位"><a href="#1-定位" class="headerlink" title="1.定位"></a>1.定位</h3><p>通常我會卡出一兩個類似下圖的定位點，不會直接畫線出來，單純用眼睛看的。<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a002.JPG?raw=true"></p><h3 id="2-外輪廓"><a href="#2-外輪廓" class="headerlink" title="2.外輪廓"></a>2.外輪廓</h3><p>接下來定位外輪廓，通常準不準這時候就決定勝敗，要很像原圖，外輪廓先準確再說，就跟做蛋糕的一樣，網路的配方就先跟著走一次，因為每家的爐子、麵粉不同，多少有些相異處，但沒甚麼經驗，就先照做。等真的有一定經驗才開始改變。<br>通常我自己臨摹會控制練習時間，臨摹簡單物件是１小時，困難的可能４小時結束，但這個是作業，要尊重，所以這次設定簡單物件４小時左右完成，有很充裕時間臨摹。<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a003.JPG?raw=true"><br>如果是一般自己練習大概就是撇一撇，但為了準確，這個大概１５分鐘都在抓線條斜率與點位。</p><h3 id="3-內切割"><a href="#3-內切割" class="headerlink" title="3.內切割"></a>3.內切割</h3><p>一直照老方法有點不好，所以這次多少有實驗一下，內切割混入透視的概念，如下圖：<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a004.JPG?raw=true"><br>講是這樣講，內部也是普通仔細去對透視而已。<br>紅色箭頭這邊就比較隨興，黃色箭頭這邊我是刻意卡出明暗交界，方便後續製作。藍色比較混合，卡出五官透視，內部則是定位顴骨、下頜骨部分。</p><h3 id="4-二～四色"><a href="#4-二～四色" class="headerlink" title="4.二～四色"></a>4.二～四色</h3><p>定位出基本形狀後，卡出關鍵閉塞，明暗交界，四色區域（這邊其實就開始有點隨興了），如下圖：<br><img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a005.JPG?raw=true"><br>花的時間沒有記錄，很單純案的部分卡深色，然後我會很機械式只有一個念頭<strong>我要定對位置</strong>，就跟這篇「臨摹準度」說法一樣，基本上１：１要五成像應該還算簡單？看用的方式。</p><h3 id="5-細畫"><a href="#5-細畫" class="headerlink" title="5.細畫"></a>5.細畫</h3><p>通常到這個階段我就把外輪廓關掉，也沒甚麼技巧，就是暗的提亮，亮的壓暗，這次沒記錄數值，很隨興製作。<br><img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a006.gif?raw=true"><br>通常就是<strong>套鎖工具</strong>外加<strong>筆刷</strong>直接畫，也沒用特殊圖層，雖然這樣做可能會比較慢，但就是習慣這樣做。<br>依照規定，背景沒有增添其他東西。感覺差不多便放置，有時候隔天再看會覺得我在做甚麼鬼畫符ＸＤ</p><h3 id="6-補充"><a href="#6-補充" class="headerlink" title="6.補充"></a>6.補充</h3><p>一定會有人問這用甚麼筆刷，這幅只用三支</p><ol><li>95%用Ｋ大炭筆ｘ２</li><li>5%小點用大飛老師工具預設，小點<br><img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a007.JPG?raw=true"><br>實驗性地用一下小點筆刷，我不太會用不同筆刷去做東西，看到有點，便在明暗交界以及量面增添一些雜訊，暗的地方放掉。　</li></ol><p>請不要吐槽為什麼上大飛老師課程卻主要用Ｋ大筆刷，我還沒上課就用熟悉的囉～<br>之後上課就會把所學的清空，盡量變成這位老師的形狀，不帶過去成見地學習，先接受再調整與思考後再詢問是我的習慣，不然只按照舊有概念，有抗拒心理就很難多方面去觀察，除非是菸毒這種連嘗試都不應該的東西，否則聽聽各種聲音比較好。</p><hr><h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><ul><li>過兩天回頭看感覺是差不多，好像還是有這些地方型準上能調整，例如這些：<br><img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a008.JPG?raw=true"></li></ul><p>不過這樣做有點病，還是先不要改好了，後續有作業點點評，再來看看哪邊有缺失，會再補充一篇。<br>以１：１臨摹來說，有時間的情況下，應該可以算相似，老實說我覺得這個練習還不夠像，太像會有點太機械的感覺，那樣不如拍照就好。<br>（只是被質疑過是不是疊圖，才體會到應該可以到下個階段了）</p><p>+　體感來說大飛老師課程比較像美術體系出生會有的說法，像我這種三類又是理工學院自學出家的人，應該可以學到更多柔軟的東西。畢竟連PI這種專業的測驗結果都是工匠，在某些情況可能有點硬，需要軟一些。</p><h2 id="以臨摹來說，我的缺點反而是臨摹的時候沒有加入個人情感，這點多少有感，個人會覺得先緊再鬆應該會比較簡單，不太確定這個觀念是否正確，等上完課程也許會有不同的體悟。"><a href="#以臨摹來說，我的缺點反而是臨摹的時候沒有加入個人情感，這點多少有感，個人會覺得先緊再鬆應該會比較簡單，不太確定這個觀念是否正確，等上完課程也許會有不同的體悟。" class="headerlink" title="+　以臨摹來說，我的缺點反而是臨摹的時候沒有加入個人情感，這點多少有感，個人會覺得先緊再鬆應該會比較簡單，不太確定這個觀念是否正確，等上完課程也許會有不同的體悟。"></a>+　以臨摹來說，我的缺點反而是臨摹的時候沒有加入個人情感，這點多少有感，個人會覺得先緊再鬆應該會比較簡單，不太確定這個觀念是否正確，等上完課程也許會有不同的體悟。</h2><h2 id="後話"><a href="#後話" class="headerlink" title="後話"></a>後話</h2><ul><li>打這種文章好花時間，居然這樣就花了４小時，可能不如多畫幾個練習，不過都架了網站了，還是不要忘了怎麼用記事本(Notepad++)寫文比較好，任何經驗都會是有意義的，只是常會在不經意的時候用到～</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 心得 </category>
+          
+          <category> 網課心得-大飛(素描) </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PS </tag>
+            
+            <tag> 網課心得-大飛(素描) </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>論抓型與無奈(微生平)</title>
+      <link href="undefined/2021-06-07-%E8%AB%96%E6%8A%93%E5%9E%8B/"/>
+      <url>undefined/2021-06-07-%E8%AB%96%E6%8A%93%E5%9E%8B/</url>
+      
+        <content type="html"><![CDATA[<body oncontextmenu="window.event.returnValue=false"><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 06 月 07 日，只是以日記型式簡單闡述心得!</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p><strong>你認為的不一定真的是這樣，你做不到不代表別人做不到</strong></p><hr><h2 id="緣起"><a href="#緣起" class="headerlink" title="緣起"></a>緣起</h2><p>原本一直以為我抓型沒有說多好，因為老實說不太像，直到我被質疑是不是<strong>疊圖</strong>才知道，可能自己有點太保守，可以下個階段了。  <span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: #f7fffd;color: #ebfffd">(´･ω･`)  </button><span class="hide-content">老實說這簡直污辱我的人格，不過想想也很正常，畢竟有誰做課件臨摹願意花一周的時間都只臨摹一幅線稿？病了才會這樣做吧？但抱歉，真的有，那就是我。</span></span></p><p>做助教前一份工作是遊戲特效，做了三年半，可能一些人會覺得：「哦～那應該可以很隨興？」我運氣很好，這三年換過幾位前輩，遇到了很極端的案例，很感覺派、很嚴謹派，然後居中派。</p><hr><h2 id="修正後Discord回應"><a href="#修正後Discord回應" class="headerlink" title="##修正後Discord回應 "></a>##修正後Discord回應 </h2><h2 id="後話"><a href="#後話" class="headerlink" title="後話"></a>後話</h2><ul><li>2:09 提到，眼到手到只是「匠」，主觀判斷才重要，這點對於有一定經驗的人的確是這樣。</li></ul><ul><li>雖然上次有上過，但剛開始5分鐘我沒聽到聲音，所以進進出出兩三次，過去經驗唯一比較有壓力的就是怕老師會說「不要開視訊鏡頭！」</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 心得 </category>
+          
+          <category> 雜談心得 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 無奈 </tag>
+            
+            <tag> 心得-論抓型 </tag>
+            
+            <tag> 雜談 </tag>
             
         </tags>
       
