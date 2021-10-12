@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>關於去背</title>
-      <link href="undefined/20210409color/"/>
-      <url>undefined/20210409color/</url>
+      <title>心得大飛課程-W00課前作業</title>
+      <link href="undefined/%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/"/>
+      <url>undefined/%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/</url>
       
-        <content type="html"><![CDATA[<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 04 月 09 日，只是學生的疑惑紀錄。<br>前面引言為小故事，可用右側目錄跳轉。</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>同學有疑惑：「求助一下，那個dlc裡使用的線稿是怎麼弄的呀？」（就是問去背）</p><p>這時候會想說，恩…看來要寫一篇回答給自己做紀錄了。<br>滿多方式的，所以先講一些</p>]]></content>
+        <content type="html"><![CDATA[<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p>本說明更新於 2021 年 08 月 17 日，只是以日記型式簡單闡述心得!</p></div><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>去年上過大飛老師設計課，今年報素描課，正好也架了網站就筆記一下，如果有人有興趣也可以看一下。</p><h2 id="申請"><a href="#申請" class="headerlink" title="申請"></a>申請</h2><p>因為上次有上過，所以一些文件都已經準備好，仔細觀看不要繳錯帳號就好，<br>忙著專心上班，其實也不太在意什麼時候收到，應該沒有等太久可能1~3天就收到回信了。</p><h2 id="課前作業-摸底"><a href="#課前作業-摸底" class="headerlink" title="課前作業-摸底"></a>課前作業-摸底</h2><p>信件中有這個要求<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/2021-08-17-%E5%BF%83%E5%BE%97%E5%A4%A7%E9%A3%9B%E8%AA%B2%E7%A8%8B-W00%E8%AA%B2%E5%89%8D%E4%BD%9C%E6%A5%AD/w00_a001.PNG?raw=true"></p><p>信件中我判斷就是先按照自己方式繪製，</p><h2 id="我目前臨摹方式"><a href="#我目前臨摹方式" class="headerlink" title="我目前臨摹方式"></a>我目前臨摹方式</h2><p>都身為人類是基本要求，其中看到<strong>不需要繪製背景，只要畫骷髏頭</strong>以及<strong>盡你所能、你目前理解的去畫</strong><br>目前工作也是差不多的網課教育體系，每天都最少看了100~300份作業，如果沒有按照規定走助教或老師會很痛苦，<br>身為助教，我最喜歡看到大部分按照規則走的同學，現在我是學生，當然一定照規定走。</p><p>關於臨摹階段，裡面有談到之前我待遊戲業做特效三年半的臨摹與經驗，有興趣可以看一下</p><p>先用１：１外框，當有這個外框，基本就很好定位外輪廓，一兩個點位。<br>以目前的臨摹準度，大概知道可能已經可以下個階段，不過會覺得想說只是摸底，這邊就按照目前既有經驗來繪製方式吧～</p><h3 id="定位"><a href="#定位" class="headerlink" title="定位"></a>定位</h3><p>通常我會卡出一兩個類似下圖的定位點，</p><h3 id="定位-1"><a href="#定位-1" class="headerlink" title="定位"></a>定位</h3><h3 id="定位-2"><a href="#定位-2" class="headerlink" title="定位"></a>定位</h3><h3 id="定位-3"><a href="#定位-3" class="headerlink" title="定位"></a>定位</h3><h3 id="定位-4"><a href="#定位-4" class="headerlink" title="定位"></a>定位</h3><hr><h2 id="方式三-最常能解決"><a href="#方式三-最常能解決" class="headerlink" title="方式三(最常能解決)"></a>方式三(最常能解決)</h2><h3 id="1-新增全新記事本-txt檔"><a href="#1-新增全新記事本-txt檔" class="headerlink" title="(1)新增全新記事本.txt檔"></a>(1)新增全新記事本.txt檔</h3><p>　　　　取名：<strong>「PSUserConfig」</strong>，不要打成PSUserConfig.txt，<span class="hide-inline"><button type="button" class="hide-button button--animated" style="background-color: #f7fffd;color: #ebfffd">(´･ω･`)不要點我  </button><span class="hide-content">之前複製.txt 所以沒壓感(´･ω･`)</span></span></p><h3 id="2-記事本內打入"><a href="#2-記事本內打入" class="headerlink" title="(2)記事本內打入"></a>(2)記事本內打入</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># Use WinTab</span><br><span class="line">UseSystemStylus 0</span><br></pre></td></tr></table></figure><p>　　　<br> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom02.jpg?raw=true"></p><h3 id="3-將筆記本貼到Adobe-Photoshop-20xx-Settings"><a href="#3-將筆記本貼到Adobe-Photoshop-20xx-Settings" class="headerlink" title="(3)將筆記本貼到Adobe Photoshop 20xx Settings"></a>(3)將筆記本貼到Adobe Photoshop 20xx Settings</h3><pre><code> 放入: C:\Users\User\AppData\Roaming\Adobe\Adobe Photoshop 2020\Adobe Photoshop 2020 Settings    </code></pre><ol><li>C:\Users\User 裡面的user找自己使用者的名字</li><li>AppData是隱藏的資料夾，請資料夾上方　<strong>檢視&gt;選項&gt;檢視&gt;選擇:顯示隱藏的檔案、資料夾及磁碟機</strong></li><li>Adobe Photoshop 20xx Settings 看自己是甚麼版本，之前有同學問為甚麼沒有，解決很久才發現他是photoshop cs3…版本差距有點太不同，請自行搜尋解決方式喔！</li></ol><p> <img src="https://github.com/yumeyuC/imageup/blob/master/imageup/post/2021-04-03-PS%E5%A3%93%E6%84%9F%E5%95%8F%E9%A1%8C/other-ps-wacom03.jpg?raw=true"></p><hr><h2 id="後話"><a href="#後話" class="headerlink" title="後話"></a>後話</h2><ul><li>目前曾使用過cs6版本是直接就有壓感</li><li>如果用到20XX版本，通常方式三最能解決</li><li>方法3在2021版本都還能使用，如果還有其他作法這邊會再補上</li><li>原本想說這個問題可以google或是百度隨便找一下就好，應該超多有人寫，<br>但想說這個網站就是我曾遇到同學甚麼問題，都整理起來，來當作自己筆記。</li></ul>]]></content>
       
       
       <categories>
           
-          <category> 色彩 </category>
+          <category> 其他/綜合 </category>
           
           <category> PS相關 </category>
           
@@ -22,9 +22,9 @@
       
         <tags>
             
-            <tag> 色彩 </tag>
+            <tag> PS </tag>
             
-            <tag> 去背 </tag>
+            <tag> 網課心得01 </tag>
             
         </tags>
       
